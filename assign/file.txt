@@ -1,0 +1,8 @@
+VCR#sh ip int brief | i up
+Vlan1 unassigned YES NVRAM up down
+Vlan110 110.0.0.1 YES manual up up
+Vlan120 unassigned YES TFTP up up
+Vlan121 unassigned YES unset up down
+GigabitEthernet0/0 11.20.13.82 YES manual up up
+GigabitEthernet1/0/7 unassigned YES unset up up
+GigabitEthernet2/0/13 unassigned YES unset up up

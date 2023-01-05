@@ -1,0 +1,2 @@
+SW Forwarding: 100/0/0/0, Other: 0/0/0
+HW Forwarding:   0/1000/0/0, Other: 0/0/0

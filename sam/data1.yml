@@ -1,0 +1,4 @@
+rest:
+  url:  "https://example.org/"
+  port: 8443
+  socket: level1
